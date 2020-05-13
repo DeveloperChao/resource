@@ -37,6 +37,7 @@
 1. [Sound Image](http://soundimage.org/)
 1. [Sound Bible（音效网站）](http://soundbible.com/)
 1. [PD Info](https://www.pdinfo.com/royalty-free-music.php)
+1.[♫ 歌曲大全-音乐聚合搜索引擎](http://gequdaquan.net/)
 
 ## 三、图片素材:art:
 1. [泼辣有图](http://www.polayoutu.com/collections)
